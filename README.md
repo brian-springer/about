@@ -38,7 +38,7 @@ I learned a lot of what I know about managing teams from coaching girls softball
 
 I prefer *time to value*. Yes, I know this term has some industry meaning, especially in SaaS.
 
-Writing code is awesome and hard, but there’s so much else that can get in the way on the journey to a high-performing team. Broadly this boils down to reduce toil to increase time to value.
+Writing code is awesome and hard, but there’s so much else that can get in the way on the journey to a high-performing team. Broadly this boils down to: reduce toil to increase time to value.
 
 - High quality metrics are important.
     - My favorite source is a terrific startup— [Span](https://www.linkedin.com/company/getspan).
