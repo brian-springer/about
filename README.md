@@ -6,8 +6,6 @@ My job is to enable high-performing teams to consistently deliver exceptional va
 
 Simple, but not easy. I'm writing this so you can better understand my unique perspective on how it is done. Everything needs to be adapted, so lots of principles, but I also aim to be specific— and brief. And, as ever— a work in progres.
 
----
-
 # Product
 
 All that we build is in service of the product.
