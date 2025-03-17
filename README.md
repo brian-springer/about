@@ -92,16 +92,16 @@ The word *deliver* does a lot of work in my single sentence about what an Engine
 
 # Touchstones
 
-- **The single biggest problem in communication is the illusion that it has taken place**. —George Bernard Shaw
-- The most valuable management skill a person can have is the *ability to produce high-talent teams*. Nothing else even comes close. —Price Pritchett
-- [What Is Leadership?](https://www.youtube.com/watch?v=pYKH2uSax8U)  —David Marquet
+- **The single biggest problem in communication is the illusion that it has taken place**. *—George Bernard Shaw*
+- The most valuable management skill a person can have is the *ability to produce high-talent teams*. Nothing else even comes close. *—Price Pritchett*
+- [What Is Leadership?](https://www.youtube.com/watch?v=pYKH2uSax8U)  *—David Marquet*
     
     Intent-Based Leadership starts with rejecting the idea that leadership is for the select few at the top and instead embracing in highly effective organizations, there are leaders at every level.
     
-- [Clear is kind](https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/). Unclear is unkind. —Brené Brown
+- [Clear is kind](https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/). Unclear is unkind. *—Brené Brown*
 - [If you have more than three priorities, you have no priorities.](https://www.inc.com/kimberly-weisul/jim-collins-good-to-great-in-ten-steps.html)
 - Your self-perception is based on what you are *trying* to do. Other's perception of you is based on what they *see* you do.
-- Everyone has a plan until they get punched in the face. —Mike Tyson
+- Everyone has a plan until they get punched in the face. *—Mike Tyson*
 
 # A Few More
 
@@ -109,4 +109,4 @@ The word *deliver* does a lot of work in my single sentence about what an Engine
 - The real problem lies not in implementing a new process, but in getting people to hold one another accountable to the process. In the best companies, everyone holds everyone else accountable—regardless of level or position.  *—Crucial Conversations*
 - It is a paradoxical but profoundly true and important principle of life that the most likely way to reach a goal is to be aiming not at that goal itself but at some more ambitious goal beyond it. *—Arnold Toynbee*
 - Maturity is the ability to reject good alternatives in order to pursue even better ones. *—Ray Dalio*
-- The most important conversations you’ll ever have are the ones you’ll have with yourself*. — David Goggins*
+- The most important conversations you’ll ever have are the ones you’ll have with yourself. *—David Goggins*
