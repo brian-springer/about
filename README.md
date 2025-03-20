@@ -85,8 +85,9 @@ The word *deliver* does a lot of work in my single sentence about what an Engine
 # About Me
 
 - I “think” using notes and use them extensively. I’m kind of addicted to Notion, but flexible.
-- I “open source” my leadership, giving access to what I’m prioritizing, reviewing, etc..
+- I “open source” my leadership, giving access to what I’m handing off, prioritizing, reviewing, etc..
     - I’ve even done it with my Todo list, but don’t share that broadly now.
+- I have natural immunity to group think.
 - I have tended towards long tenures in my career. I value a good long-term environment over short-term gain.
 - I value location flexibility and remote work at this stage and prioritize when possible.
 
